@@ -6,12 +6,8 @@
 </p>
 
 <p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
 - [Detetive de IA: Decifrando a Inteligência Artificial no universo das finanças](https://github.com/Ninne04/prompts-for-podcast-generate-by-ia/blob/main/output/PodcastNinneHolmes.MP3)
-</div>
+</p>
 
 # Projeto Podcast Gerado por I.A.s
 
