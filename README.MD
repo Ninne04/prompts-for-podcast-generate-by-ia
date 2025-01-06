@@ -10,6 +10,10 @@
 </p>
 
 <div align="center">
+   [Detetive de IA:Decifrando a Inteligência Artificial no universo das finanças]<audio src="output/PodcastNinneHolmes.MP3"</audio>
+</div>
+
+<div align="center">
     <audio src="output/PodcastNinneHolmes.MP3" controls title="Podcast editado"></audio>
 </div>
 
